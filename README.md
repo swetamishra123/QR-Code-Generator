@@ -5,7 +5,7 @@ This is a simple web-based QR code generator that allows you to input a URL and 
 
 ## Features
 
-- Generate QR codes for URLs.
+- Generate QR codes for URL's.
 - Download QR codes as PNG images.
 
 ## Technologies Used
