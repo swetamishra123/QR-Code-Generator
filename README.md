@@ -29,7 +29,7 @@ You can see a live demo of this QR code generator [here](https://qr-code-generat
 To run this project locally, you can simply clone the repository and open the `index.html` file in a web browser.
 
 ```bash
-git clone https://github.com/your-username/QR-Code-Generator.git
+https://github.com/swetamishra123/QR-Code-Generator.git
 ```
 
 ## Contributing
